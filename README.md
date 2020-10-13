@@ -27,19 +27,23 @@ The words used in the webpage are very coloquial and user friendly. There are no
 
 #3: User control and freedom.
 
-Most of the control commands work very well and are very clear. The only command that is not clear is how to return to the home page. Instead of having a clear "Home" button, the logo of the webpage (in this case, Nordstrom) works as a help button. If this button is accessed, there is no clear way to return to teh previous page without using the browser's return option. You have to access 2 subcategories to finally reach the link that will take you to the specialuzed browser for this type of clothe for the item. there is no subcategory for all items designed for post-mastectomy clothing. I would rank it as a regular.
+Most of the control commands work very well and are very clear. The only command that is not clear is how to return to the home page. Instead of having a clear "Home" button, the logo of the webpage (in this case, Nordstrom) works as a help button. If this button is accessed, there is no clear way to return to the previous page without using the browser's return option. You have to access 2 subcategories to finally reach the link that will take you to the specialized browser for this type of clothe for the item. There is no subcategory for all items designed for post-mastectomy clothing. I would rank it as a regular.
 
 #4: Consistency and standards.
 
-The page is really consistent and standards
+The page is really consistent and has high standards that are followed all around. Both, the internal and external consistency, are very well designed and make the experience for the customer pleasant. All the elements within categories are easy to differentiate thank you to the variatio of wordws the webdesigners use. Even if 2 words are similar, they include adjetives in the titles to make them diffderentiable to those that might not know the main difference. The normal elements of an e-commerce webpage are there: the shopping cart item at the top right, the general menu on top, the customer service option at the buttom, and a sidebar where similar subcategories appear. I wouold rank it as good.
 
 #5: Error prevention.
 
+There are litttle to none error prone situations. When it copmes to slips from the user, the webpage is correctly designed to offer alternate solutions. If the user searches a word incorrectly written, the web searches is mart enough to suggest some categories that look similar to the mispelled search. When it comes to mistakes, there are no easy mistakes in the page. everything is correctly identified. EVen the shopping cart correctly indicated the number of items the user has placed there. I would rank it as good.
+
 #6: Recognition rather than recall.
 
-This heuristic principle is not the best on this page. As it was described in the Initial Evaluation, it is not cleared where the post-mastectomy bra section is located and how you can locate it. It is placed at the end of the page, in the same font and color as the rest of the texts, It is not located in a black box, like the "Find a store near you" feature is. The only thing that sets it apart is a delicate underline, which is not easily recognizable for the general user. I would rank it with a regular.
+This heuristic principle is not the best on this page. As it was described in the Initial Evaluation, it is not cleared where the post-mastectomy bra section is located and how you can locate it. It is placed at the end of the page, in the same font and color as the rest of the texts, It is not located in a black box, like the "Find a store near you" feature is. The only thing that sets it apart is a delicate underline, which is not easily recognizable for the general user. I would rank it as regular.
 
 #7: Flexibility and efficiency of use.
+
+The flexibility of this page is very good. It allows the users to have their personalized page (when the user logs in) and keep track of items they liked or want to shop. It follows the same format for all users, with the exception of their name. When searching through different items, it offers items that the user has searched before or that are similar to items that are similars to those searched before. I woud rank it as good.
 
 #8: Aesthetic and minimalist design.
 
@@ -47,9 +51,11 @@ The design of the webpage is very minimalistic and aestetically pleasing. It is 
 
 #9: Help users recognize, diagnose, and recover from errors.
 
+This heuretic principle is very good in this page, since it gives the user action options when it runs into an error or a bad end. The page offers similar options to what yoiu have been looking at or an option to return to the main menu. If you access a section of the page taht is no longer available, it will show an message sqaying that there was a problem with teh page and an option to return to the main page. I woud rank it as good.
+
 #10: Help and documentation
 
-There is a helper menu at the bottom of the page, where you can find the Customer Service
+There is a helper menu at the bottom of the page, where you can find the Customer Service option. The customer service option shows you main concers, such as how to cancel an order and where to call for general customer service. It also shows differe4nt phone numbers for specializedd customer service. I would rank it as good. The side menu shows main concerns and links to tutorial on how to do things, such as payment, pickup instructions and frequently asked quesions, where more explanations xan be found. I would rank it as good. 
 
 
 
@@ -60,6 +66,8 @@ url: https://www.target.com/c/mastectomy-swimsuits-women-s-clothing/-/N-e5wla
 Screenshot: 
 
 ### Initial Evaluation of Webpage:
+
+
 
 ### Heuristic Principles:
 
