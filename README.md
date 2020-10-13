@@ -10,10 +10,11 @@ url: https://www.nordstrom.com/browse/women/clothing/underwear-lingerie/breast-p
 Screenshot: 
 ![](/Users/isabel_roig/Desktop/Nordstrom SS 1.png)
 
-Initial Evaluation of Webpage:
+### Initial Evaluation of Webpage:
 
 The webpage is very informative of the program. It shows the services it offers, the different ways of payment through insurance or credit. The page focuses more on the ways to make an appointment and get a consult instead of the products its sells. In fact, the link for the items that are being sold onlone is found at the very bottom and it is easy to overlook. Even though it is a webpage focused for selling clothes, the section for post-masectomy clothes, especially bras, is not very well signaled. You either have to use the search box or know of the existance of this main page.
 
+### Heuristic Principles:
 
 #1: Visibility of system status.
 The visibility of system status is very good. The webpage allows you to see where you are standing, under which subcategories you can find the webpage you are in, different browsing options and how to return to the main page. The top is filled with the main menus, including the shopping cart and an option to see your profile in the page. And on the side, you can see the nearest sudivisions of the page you are in. I would rank it with a regular.
@@ -44,11 +45,14 @@ There is a helper menu at the bottom of the page, where you can find the Custome
 
 
 ## Webpage #2 - Target Swimsuits for Post-Mastsectomy Women
+
 url: https://www.target.com/c/mastectomy-swimsuits-women-s-clothing/-/N-e5wla
 
 Screenshot: 
 
-Initial Evaluation of Webpage:
+### Initial Evaluation of Webpage:
+
+### Heuristic Principles:
 
 #1: Visibility of system status.
 
