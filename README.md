@@ -8,7 +8,8 @@ Middle age woman brand of clothes, concentrated for formal events and outings. I
 url: https://www.nordstrom.com/browse/women/clothing/underwear-lingerie/breast-prosthesis-program
 
 Screenshot: 
-![](/Users/isabel_roig/Desktop/Nordstrom SS 1.png)
+
+![Nordstrom Webpage Screenshot #1](Nordstrom-SS-1.png)
 
 ### Initial Evaluation of Webpage:
 
