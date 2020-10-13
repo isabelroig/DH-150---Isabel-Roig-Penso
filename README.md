@@ -15,7 +15,7 @@ Screenshot:
 
 ### Initial Evaluation of Webpage:
 
-The webpage is very informative of the program. It shows the services it offers, the different ways of payment through insurance or credit. The page focuses more on the ways to make an appointment and get a consult instead of the products its sells. In fact, the link for the items that are being sold onlone is found at the very bottom and it is easy to overlook. Even though it is a webpage focused for selling clothes, the section for post-masectomy clothes, especially bras, is not very well signaled. You either have to use the search box or know of the existance of this main page.
+Nordstrom is a multidepartametal clothing store for people from medium to high budget. The sectiohn we are focusing on is the one decicated to the post-mastectomy section. The webpage is very informative of the program. It shows the services it offers, the different ways of payment through insurance or credit. The page focuses more on the ways to make an appointment and get a consult instead of the products its sells. In fact, the link for the items that are being sold onlone is found at the very bottom and it is easy to overlook. Even though it is a webpage focused for selling clothes, the section for post-masectomy clothes, especially bras, is not very well signaled. You either have to use the search box or know of the existance of this main page.
 
 ### Heuristic Principles:
 
@@ -57,7 +57,7 @@ This heuretic principle is very good in this page, since it gives the user actio
 
 #10: Help and documentation
 
-There is a helper menu at the bottom of the page, where you can find the Customer Service option. The customer service option shows you main concers, such as how to cancel an order and where to call for general customer service. It also shows differe4nt phone numbers for specializedd customer service. I would rank it as good. The side menu shows main concerns and links to tutorial on how to do things, such as payment, pickup instructions and frequently asked quesions, where more explanations xan be found. I would rank it as good. 
+There is a helper menu at the bottom of the page, where you can find the Customer Service option. The customer service option shows you main concers, such as how to cancel an order and where to call for general customer service. It also shows different phone numbers for specializedd customer service. I would rank it as good. The side menu shows main concerns and links to tutorial on how to do things, such as payment, pickup instructions and frequently asked quesions, where more explanations xan be found. I would rank it as good. 
 
 
 
@@ -74,7 +74,7 @@ Screenshot:
 
 ### Initial Evaluation of Webpage:
 
-Target's main page is really good. The page is very user friendly with very clear wording and access to the different sections. The section being analyzed is the swimsuit section for post-mastesctomy women. The page is basically the section fo a brand exclusive to target that designs swimsuits for the previously mentioned group. It is aesthetically pleasing and has colorful images that attracts the human eye.
+Target is a multideparamental store accessible fopr low budget populations. besides clothing, they sell electronics, beauty products, groceries and even has a pharmaceutical department. Target's main page is really good. The page is very user friendly with very clear wording and access to the different sections. The section being analyzed is the swimsuit section for post-mastesctomy women. The page is basically the section fo a brand exclusive to target that designs swimsuits for the previously mentioned group. It is aesthetically pleasing and has colorful images that attracts the human eye.
 
 
 ### Heuristic Principles:
@@ -101,15 +101,20 @@ It is somehow complicated to run into an error in the webpage, yet not impossibl
 
 #6: Recognition rather than recall.
 
-The webpage design is very good for easily recognizion and litte to no recalling. The different buttons are worded shortly yet specific enough for the user. I would rank it as good.
+The webpage design is very good for easily recognizion and litte to no recalling. The different buttons are worded shortly yet specific enough for the user to look momentarily. Same as teh previous page, it is not cleared where the post-mastectomy bra section is located and how you can locate it. You need to know of the existence of this Target brand to reach the webpage where these items are all shown together. besides this, the webpage has  agood recognition design. I would rank it as regular due to the hardship of finding the post-mastectomy page.
 
 #7: Flexibility and efficiency of use.
 
+Same as the previous page, the flexibility of this webpage is very good. After the user logs in into their profile, the page becomes more personalized without costing the design and format of the general webpage. But even if the user is not logged in and using the webpage as a guest, the webpage personalizes to the user's preferences. i wold rank it as good.
+
 #8: Aesthetic and minimalist design.
 
-The design of the webpage does a good job in mantaining the style of the whole page. Rather than decorqated with special color or 
+The aesthetic of the page is very good. It has the main colors of the company (red and white for Target) and the fonts throughout the webpage stays the same, with small variations depending on the importance of the text. The design of the webpage does a good job in mantaining the style of the whole page. Rather than decorated with special color, it keeps the aesthetics of the rest of the page. The minimalistic aspect, on the other hand, it is not the best, since the items being offeredin the page seem a little packed. The random ads throughout teh webpage does not really help the cause, bringing in mor3e colors and information that can distract the user from the main visual objective: the items being sold. I would rank is as regular.
 
 #9: Help users recognize, diagnose, and recover from errors.
 
+Same as the previous webpage, whenever the user runs into an error, the webpage will suggest similar options that might have been what the user meant to search for. AS teh rpevious page, there are short and detailed instructions on how to solve some of the problems the users mught run into. It also has an option to search to the general number for customer service and more4 soecialized customer service.l I would rank it as good.
+
 #10: Help and documentation
 
+The help and documenttaion menu is very good. There is always access to it at the bottom of the webpaage, in any section. There is a smaller help menu and more questions can be answered by topic in the "Contact Us" option. Very detailed yet easy to read and very accessible to all users, wherever thety arte located in the webpage. I would rank it as good.
