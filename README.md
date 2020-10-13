@@ -43,10 +43,12 @@ The design of the webpage is very minimalistic and aestetically pleasing. It is 
 There is a helper menu at the bottom of the page, where you can find the Customer Service
 
 
-## Webpage #2
-url: 
+## Webpage #2 - Target Swimsuits for Post-Mastsectomy Women
+url: https://www.target.com/c/mastectomy-swimsuits-women-s-clothing/-/N-e5wla
+
 Screenshot: 
-Initial Evaluation of Webpaage:
+
+Initial Evaluation of Webpage:
 
 #1: Visibility of system status.
 
