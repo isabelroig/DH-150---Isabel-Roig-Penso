@@ -9,7 +9,7 @@ url: https://www.nordstrom.com/browse/women/clothing/underwear-lingerie/breast-p
 
 Screenshot: 
 
-![Nordstrom Webpage Screenshot #1](Nordstrom-SS-1.png)
+![Nordstrom Webpage Screenshot #1](Nordstrom SS 1.png)
 
 ### Initial Evaluation of Webpage:
 
