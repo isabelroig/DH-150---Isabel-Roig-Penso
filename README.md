@@ -35,6 +35,7 @@ This heuristic principle is not the best on this page. As it was described in th
 #7: Flexibility and efficiency of use.
 
 #8: Aesthetic and minimalist design.
+The design of the webpage is very minimalistic and aestetically pleasing. It is composed mainly of whites, greys and blacks, allowing the pictures to come up more easily to the eye and even these try to match the motive of the exact section of the page you are in, while folowing the aesthetics of the general page. In the case of the post-mastectomy page, it has images that show soothing pinks. Even the woman in the main picture of the page is earing a pink sweater. All the texts have the same fonts and ceratain preset letter sizes, having the biggest letters in the most important texts and decreasing the size of the texts as the text decreases importance. I would rank it with a very good.
 
 #9: Help users recognize, diagnose, and recover from errors.
 
