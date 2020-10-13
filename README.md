@@ -11,6 +11,8 @@ Screenshot:
 
 ![Nordstrom Webpage Screenshot #1](SS1.png)
 
+![Nordstrom Webpage Screenshot #2](SS2.png)
+
 ### Initial Evaluation of Webpage:
 
 The webpage is very informative of the program. It shows the services it offers, the different ways of payment through insurance or credit. The page focuses more on the ways to make an appointment and get a consult instead of the products its sells. In fact, the link for the items that are being sold onlone is found at the very bottom and it is easy to overlook. Even though it is a webpage focused for selling clothes, the section for post-masectomy clothes, especially bras, is not very well signaled. You either have to use the search box or know of the existance of this main page.
@@ -64,6 +66,8 @@ There is a helper menu at the bottom of the page, where you can find the Custome
 url: https://www.target.com/c/mastectomy-swimsuits-women-s-clothing/-/N-e5wla
 
 Screenshot: 
+
+![Target Webpage Screenshot #1](SS3.png)
 
 ### Initial Evaluation of Webpage:
 
