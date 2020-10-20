@@ -2,6 +2,28 @@
 
 ## 1. Analisis of Heuristic Deficiencies: One paragraph explaining the purpose of UT, how & what you want to test especially based on the findings of heuristic evaluation. 
 
+Norstrom is a multidepartamental store where clothing and shoes are sold for men, women and children. In the main page of the site, you can reach items on categories like gender, item type, brand, color, size, etc. You can also use the search box if you are looking for an especific item or search individual sections of the page. The store has a specialized department for post-masectomy women underwear called. This items are designed to be more gentle to the women's upper body. We will be performing a usability test to the Nordstrom webpage, to the Breast Pristhesis Program. 
+
+The goal of the usability test is to evaluate the webpage's interface for flaws and usability through a series of tasks designed to test the suspected flaws, with the objective of improving the user's perspective. We do this by asking a less trained mind to perform the designed tasks and evaluating their response. These tests tend to be recorded for reference and analysis.
+
+The usability principles that will be evaluatied during this UT experiment will be:
+- #3: User control and freedom (Task 1)
+- #10: Help and documentation (Task 2)
+- #6: Recognition rather than recall (Task 3)
+
+I will work as moderator while my roommate, Rebeca Ruiz,  will be the participant. The UT will take place in her private room, where no interruptions or distractions will happen.
+
+The process of the usability test will be the following:
+- Introdduction
+- Consent
+- Backgroud Questions
+- Pre-test Questionnaire
+- Tasks
+- Post-test Questionnaire
+- Product Satisfaction Card
+- Demographics Questionnaire
+
+
 ## 2. Survey Link:
 You can find the link for the Survey here: [here](https://forms.gle/LeZnTAur8q5LiVx66) . 
 
