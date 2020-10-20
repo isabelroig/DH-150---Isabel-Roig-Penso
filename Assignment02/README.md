@@ -7,9 +7,9 @@ Norstrom is a multidepartamental store where clothing and shoes are sold for men
 The goal of the usability test is to evaluate the webpage's interface for flaws and usability through a series of tasks designed to test the suspected flaws, with the objective of improving the user's perspective. We do this by asking a less trained mind to perform the designed tasks and evaluating their response. These tests tend to be recorded for reference and analysis.
 
 The usability principles that will be evaluatied during this UT experiment will be:
-- #3: User control and freedom (Task 1)
-- #10: Help and documentation (Task 2)
-- #6: Recognition rather than recall (Task 3)
+- #6: Recognition rather than recall
+- #10: Help and documentation
+- #3: User control and freedom
 
 I will work as moderator while my roommate, Rebeca Ruiz,  will be the participant. The UT will take place in her private room, where no interruptions or distractions will happen.
 
@@ -28,6 +28,6 @@ The process of the usability test will be the following:
 You can find the link for the Survey here: [here](https://forms.gle/LeZnTAur8q5LiVx66) . 
 
 ## 3. Pilot UT video (e.g., youtube or google drive)* If you have a special concern to share the video, please contact the instructor
-You can find the link for the Survey here: https://forms.gle/LeZnTAur8q5LiVx66 . 
+You can find the link for the Pilot UT video . 
 
 ## 4. Reflection: One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
