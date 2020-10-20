@@ -33,3 +33,8 @@ You can find the link for the Survey here: [here](https://forms.gle/LeZnTAur8q5L
 You can find the link for the Pilot UT video . 
 
 ## 4. Reflection: One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
+Conducting the UT was a eird experience. I would have the urge to guide the participant to hint what she had to do. The participant struggled a lot using the page, which surprised me since it is a very populat page. I struggled a lot when the user was not able to complete the task or if she did it wrong. I promted the participant to read the questions very well so that she would be able to complete the tasks. At the beginning, the participant was not being very vocal about her through procefss and I attempted to encourage it reminding her that we were evaluating the site and not her.
+
+The participant found the test rather challenging. She even expanded the browser with the webpage to be able to navigate it better, which did help.
+
+I learned that there is a serious recognoition rather than recall problem. The user found it rather hard to recognize where the mastectomy section was. There was also a user control and freedom issue, since the participant did not feel comfortable with the filters. There were also some documentation problems since the participant struggke to find the information, yet this might eb because of the fortmat the webpage used, which she complained a lot about. The UT showed me the severity of the issues.
