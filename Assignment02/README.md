@@ -27,10 +27,10 @@ The process of the usability test will be the following:
 
 
 ## 2. Survey Link:
-You can find the link for the Survey here: [here](https://forms.gle/LeZnTAur8q5LiVx66) . 
+You can find the link for the Survey [here](https://forms.gle/LeZnTAur8q5LiVx66) . 
 
 ## 3. Pilot UT video (e.g., youtube or google drive)* If you have a special concern to share the video, please contact the instructor
-You can find the link for the Pilot UT video . 
+You can find the link for the Pilot UT video [here](https://drive.google.com/drive/folders/1N5wqfa-coTNO7T3qng6g0WH60J0a8Lvp?usp=sharing) . 
 
 ## 4. Reflection: One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
 Conducting the UT was a eird experience. I would have the urge to guide the participant to hint what she had to do. The participant struggled a lot using the page, which surprised me since it is a very populat page. I struggled a lot when the user was not able to complete the task or if she did it wrong. I promted the participant to read the questions very well so that she would be able to complete the tasks. At the beginning, the participant was not being very vocal about her through procefss and I attempted to encourage it reminding her that we were evaluating the site and not her.
