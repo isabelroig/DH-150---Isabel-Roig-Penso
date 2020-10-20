@@ -11,6 +11,8 @@ The usability principles that will be evaluatied during this UT experiment will 
 - #10: Help and documentation
 - #3: User control and freedom
 
+This heuristic principles were chosen to study because these are the ones that were not completey satisfied in the previous evaluation. There were some problems and difficulties when evaluating these and this is a good way of confirming those conclusions.
+
 I will work as moderator while my roommate, Rebeca Ruiz,  will be the participant. The UT will take place in her private room, where no interruptions or distractions will happen.
 
 The process of the usability test will be the following:
