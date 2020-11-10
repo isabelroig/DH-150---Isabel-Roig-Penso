@@ -1,5 +1,6 @@
 # Assignment 4 - User in Context
-### Isabel Roig Penso
+#### Isabel Roig Penso
+
 
 ## Step01: Specify the main design challenge 
 What is the main activity your project would support the users’ needs?
