@@ -4,15 +4,24 @@
 
 ## Step01: Specify the main design challenge 
 ### 1. What is the main activity your project would support the users’ needs?
+This project would provide a platform for midddle age women who had gone through a mastectomy or any type of surgery in their front chests to be able to find with more easiness clothing items that are comfortable for them and support them.
 
 ### 2. What is the basic need involved for that activity? (reference)
+The need of this product is to facilitate the search for comfortable product for post-mastectomy and upper front chest surgery
+
 
 ### 3. What is(are) the traditional/current solution(s) to satisfy the needs?
+The traditional solution is to browse through different departamental stores and underwear brands until the user finds an item that seems to fulfill their needs. And this is by self analyzing, since the items do not tend to specify that
 
 ### 4. What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 
 ## Step02: Target users 
 ### 1. What are the characteristics of users? (ex. demographics, preference, expertise) 
+- Demographics: middle age women, either working or unemployed, who had gone through an upper front chest surgery and are in need of clothing that will support and protect their recently intervened body.
+
+- Preferences: users want to find clothe and underwear that provides extra support on their upper bodies and that are soft to their skin, since it is more delicate and cannot feel if they are being hurt in the area.
+
+- Expertise: little to no expertise. The idea of the product is to provide a easy to navigate platform for this group of people to find their desired products.
 
 ### 2. Where would the users do that activity? (i.e., context of use)
 
