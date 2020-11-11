@@ -37,22 +37,9 @@ I would use the Interview research method, with the goal of investigating more o
 ## Step04: Plan to get into the context & write down the observation/ interview guide 
 Due to social distancing, the interview will be done through Zoom. It will be recorded with a screenrecording of the zoom meeting (which will have the screen record and the video record) and a transcript. The interview will have a script with introduction, goals and contextual questions and will be treated as a conversation. 
 
-
-### 5. Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
-
-
-
 ## Step05: Interview
 
-### 1. Contextual Inquiry Guide
-Script for the interview can be found [here](https://docs.google.com/document/d/1EbW0K3oWbI_InY35v1aXQf4uXqmHUSxalwX8nGP6FUA/edit?usp=sharing)!
-
-### 2. User Data
-
-### 2. Meet/Observe the user(s)
-
-### 3. Collect the data (record, pictures, answered_survey)
-
-
+### 1. Contextual Inquiry Guide & User Data
+Here you can find the links to the [Interview Script](https://docs.google.com/document/d/1EbW0K3oWbI_InY35v1aXQf4uXqmHUSxalwX8nGP6FUA/edit?usp=sharing) , [screenrecord]() and the [transcript](https://docs.google.com/document/d/1WvsR7wjkicIgwP6COnxVspH_7E9FDstv3ltulCPSM_A/edit?usp=sharing) . 
 
 ## Step06: Reflection
