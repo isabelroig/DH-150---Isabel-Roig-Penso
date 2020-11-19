@@ -9,5 +9,6 @@ The goal of UX storytelling is to provide a user perspective to the designer to 
 
 3. Persona + empathy map (at least TWO) and  Scenario + Journey map (per each feature)
 
+![](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment05/Persona%201.png)
 
 
