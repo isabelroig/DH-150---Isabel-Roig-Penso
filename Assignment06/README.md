@@ -1,6 +1,13 @@
-Please have one page github documentation about your low-fidelity prototype:
+# Low-fidelity prototype:
 
-A brief description of your project and purpose of this low-fidelity prototype.
-A list of tasks that the (paper) prototype of your system supported.
-A set of pictures of the prototype in different states, showing it being tested.
-A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+## A brief description of your project and purpose of this low-fidelity prototype.
+The current project consists on a webpage for middle age women who are going through, or about to, a upper chest procedure and are seeking for the right clothing for their recoveries and life after. These women also seek more information and to have informed opinions about the products that are being sold.
+
+Target persona: middle age women, of any background, who has gone or will go through a upper-chest surgery. This group tends to have to look for information and products in multiple sources, and eish there was a source that had it all. Having all the information in one place helps you save time and helps the user not spend a lot of time looking into unreliable or non-detailed pages. It also allows a platform for these women to have a place where all these products are being sold and that suggest where could similar products could be searched for.
+
+## List of tasks that the (paper) prototype of your system supported.
+- # Price Tool #
+
+## A set of pictures of the prototype in different states, showing it being tested.
+
+## A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
