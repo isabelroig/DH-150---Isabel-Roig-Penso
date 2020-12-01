@@ -22,6 +22,9 @@ The flow chart allows the user to browse through the different products being so
 
 You can find a copy of the Wireframe and the 2 interactions [here!](https://freehand.invisionapp.com/freehand/document/N1dYUuXmA)
 
+Here is an image of the Wireframe:
+[](lpf1.png)
+
 
 ## A set of pictures of the prototype in different states, showing it being tested.
 
@@ -30,13 +33,15 @@ You can find a copy of the Wireframe and the 2 interactions [here!](https://free
 ![](lfp2.png)
 
 Confusions and/or unexpected interactions:
-The user, when attempting to sort the items by price, tried to filter the items by price range. I noticed this function was not defined in the low-fidelity and guided the user into the page they should use. Besides this, the user felt pretty confident in her actions and managed to 
+The user, when attempting to sort the items by price, tried to filter the items by price range. I noticed this function was not defined in the low-fidelity and guided the user into the page they should use. Besides this, the user felt pretty confident in her actions and managed to use the wireframe confidently.
 
 ### Interaction #2
 
-![](lfp2.png)
+![](lfp3.png)
 
 Confusions and/or unexpected interactions:
-When the user tries to find more information about the webpage, the weireframe does not support it, so the user was a little confused as to what to do next.
+When the user tries to find more information about the webpage, the wereframe does not support it, so the user was a little confused as to what to do next. She got frustrated and anked if she was doing something wrong. After this, she decided to explore other areas of the webpage and was able to smoothly use the Low-fidelity wireframe.
 
 ## A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+
+The main problem the user encounter was running int undefined functions. I would start by designing the undefined functions such that the users do not get frustrated or stuck in the use of the webpage. Afterwards, I wuold ask the users to follow their actions up top the point they ran into the flow error and ask them to continue freely from there. This will allow the users to try the function and its accessibility.
