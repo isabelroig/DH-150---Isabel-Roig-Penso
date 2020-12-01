@@ -18,8 +18,16 @@ Target persona: middle age women, of any background, who has gone or will go thr
 
 ## Wireframes and Wireflow:
 #### Flow Description: #### 
-The flow chart allows the user to browse through the different products being sold. You can use the main menu bar to search for items ot use the search bar. After choosing an item, you can add them to the cart with your size and color preferences. When searching the items, you can filter them by price range, color, item type, fabric and brand. Items can also be sort by price (low to high and high to low), best sellers, new releases and featured. You can order personalized items.
+The flow chart allows the user to browse through the different products being sold. You can use the main menu bar to search for items ot use the search bar. After choosing an item, you can add them to the cart with your size and color preferences. When searching the items, you can filter them by price range, color, item type, fabric and brand. Items can also be sort by price (low to high and high to low), best sellers, new releases and featured. You can also order personalized items and find more information about the webpage and the surgery items they support.
+
+You can find a copy of the Wireframe and the 2 interactions !(here)[https://freehand.invisionapp.com/freehand/document/N1dYUuXmA]
 
 ## A set of pictures of the prototype in different states, showing it being tested.
+
+### Interaction #1
+Confusions and/or unexpected interactions:
+
+### Interaction #2
+Confusions and/or unexpected interactions:
 
 ## A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
