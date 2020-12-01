@@ -6,7 +6,19 @@ The current project consists on a webpage for middle age women who are going thr
 Target persona: middle age women, of any background, who has gone or will go through a upper-chest surgery. This group tends to have to look for information and products in multiple sources, and eish there was a source that had it all. Having all the information in one place helps you save time and helps the user not spend a lot of time looking into unreliable or non-detailed pages. It also allows a platform for these women to have a place where all these products are being sold and that suggest where could similar products could be searched for.
 
 ## List of tasks that the (paper) prototype of your system supported.
-- # Price Tool #
+- Search bar field
+
+- Main menu bar and submenus
+
+- Select a category
+
+- Add an item to a car
+
+- Filtering using different criteria
+
+## Wireframes and Wireflow:
+#### Flow Description: #### 
+The flow chart allows the user to browse through the different products being sold. You can use the main menu bar to search for items ot use the search bar. After choosing an item, you can add them to the cart with your size and color preferences. When searching the items, you can filter them by price range, color, item type, fabric and brand. Items can also be sort by price (low to high and high to low), best sellers, new releases and featured. You can order personalized items.
 
 ## A set of pictures of the prototype in different states, showing it being tested.
 
