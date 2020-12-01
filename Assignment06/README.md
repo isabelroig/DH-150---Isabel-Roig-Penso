@@ -32,7 +32,7 @@ You can find a copy of the Wireframe and the 2 interactions [here!](https://free
 ![](lfp2.png)
 
 Confusions and/or unexpected interactions:
-The user, when attempting to sort the items by price, tried to filter the items by price range. I noticed this function was not defined in the low-fidelity and guided the user into the page they should use. Besides this, the user felt pretty confident in her actions and managed to use the wireframe confidently.
+The user, when attempting to sort the items by price, tried to filter the items by price range. I noticed this function was not defined in the low-fidelity and guided the user into the page they should use. Besides this, the user felt pretty confident in her actions and managed to use the wireframe confidently. Midway through the interaction, the user asked where the home button was, because she could not see it. It turned out it was forgotten in the main design, so I prompted the user into continuing using the wireframe, despite the detail.
 
 ### Interaction #2
 
@@ -43,4 +43,6 @@ When the user tries to find more information about the webpage, the wereframe do
 
 ## A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
 
-The main problem the user encounter was running int undefined functions. I would start by designing the undefined functions such that the users do not get frustrated or stuck in the use of the webpage. Afterwards, I wuold ask the users to follow their actions up top the point they ran into the flow error and ask them to continue freely from there. This will allow the users to try the function and its accessibility.
+The main problem the user encounter was running int undefined functions. I would start by designing the undefined functions such that the users do not get frustrated or stuck in the use of the webpage. Afterwards, I wuold ask the users to follow their actions up top the point they ran into the flow error and ask them to continue freely from there. This will allow the users to try the function and its accessibility. I decided to use the Nordstrom webpage as a guide to create and correct these functions, since its one of the most frequented webages for this group. I also plan to look for alternative dead ends and give them a solution to be able to return to the main page.
+
+One of the users ask about a menu botton. The solution to this problem is designing a menu button and placing it in a very clear spot, such as the top left corner of the main page, by the main menu, and make it accessible in all the subsections of the page.
