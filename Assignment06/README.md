@@ -26,10 +26,16 @@ You can find a copy of the Wireframe and the 2 interactions [here!](https://free
 ## A set of pictures of the prototype in different states, showing it being tested.
 
 ### Interaction #1
+
+![](lfp2.png)
+
 Confusions and/or unexpected interactions:
 The user, when attempting to sort the items by price, tried to filter the items by price range. I noticed this function was not defined in the low-fidelity and guided the user into the page they should use. Besides this, the user felt pretty confident in her actions and managed to 
 
 ### Interaction #2
+
+![](lfp2.png)
+
 Confusions and/or unexpected interactions:
 When the user tries to find more information about the webpage, the weireframe does not support it, so the user was a little confused as to what to do next.
 
