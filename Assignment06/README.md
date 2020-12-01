@@ -23,7 +23,7 @@ The flow chart allows the user to browse through the different products being so
 You can find a copy of the Wireframe and the 2 interactions [here!](https://freehand.invisionapp.com/freehand/document/N1dYUuXmA)
 
 Here is an image of the Wireframe:
-[](lfp1.png)
+[](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment06/lfp1.png)
 
 
 ## A set of pictures of the prototype in different states, showing it being tested.
