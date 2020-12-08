@@ -1,6 +1,6 @@
 # Assignment 7: Interactive Prototype
 
-The High Fidelity Prototype can be accessed ![here](https://xd.adobe.com/view/a3946404-4c90-4fd2-b220-3980685c3ce4-f6c7/) .
+The High Fidelity Prototype can be accessed [here](https://xd.adobe.com/view/a3946404-4c90-4fd2-b220-3980685c3ce4-f6c7/) .
 
 ## A brief description of your project, the purpose and process of this prototyping phase (3-5 sentences)
 SULA is a women's clothing brand specialized in finding clothing, swimsuts and lingerie for women who will
