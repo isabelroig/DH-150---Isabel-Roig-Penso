@@ -15,7 +15,7 @@ The previous project is a high-fidelity prototype of SULA, a clothing store spec
 ## Prototype Design
 
 ## Wireflow Graphic Design
-
+![](Wireflow.png)
 
 Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
 
