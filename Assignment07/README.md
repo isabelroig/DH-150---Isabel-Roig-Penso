@@ -13,9 +13,11 @@ The previous project is a high-fidelity prototype of SULA, a clothing store spec
 - Sort items using different criterias.
 
 ## Prototype Design
+These are the main page designs of the whole high fidelity prototype.
 ![](Pic1.png)
 
 ## Wireflow Graphic Design
+Since the project is much more complex when design
 ![](Pic2.png)
 
 ## Color
@@ -44,14 +46,16 @@ You can find the screen recording ![](https://drive.google.com/file/d/1NujiMjkBh
 
 
 ## In Class Cognitive Walkthrough
-Due to time change issues, I could not attend class the day of the peer-review. Because of this, I asked a friend of mine to do a Cognitive Walkthrough of my page.
+Due to time change issues, I could not attend class the day of the peer-review.
 
 ## Revisions
 If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes
+The usability testings of the competition websites, the testing of the low fidelity model and the Impression Test made me do certains changes to my high fidelity prototype. The changes I did in regards to these revisions were:
 
-Most of the 
 - Main menu button included.
+
 - Reviews included.
+
 - Fixed Flow errors (missing flow arrows)
 
 
