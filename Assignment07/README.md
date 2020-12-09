@@ -52,10 +52,10 @@ Due to time change issues, I could not attend class the day of the peer-review.
 If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes
 The usability testings of the competition websites, the testing of the low fidelity model and the Impression Test made me do certains changes to my high fidelity prototype. The changes I did in regards to these revisions were:
 
-- Main menu button included.
+1. Include Main Menu Button (change done from low fidelity prototype)
 
-- Reviews included.
+2. Include reviews and rating for products.
 
-- Fixed Flow errors (missing flow arrows)
+3. Fixed Flow errors (missing flow arrows).
 
 
