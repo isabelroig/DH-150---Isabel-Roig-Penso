@@ -19,7 +19,7 @@ The previous project is a high-fidelity prototype of SULA, a clothing store spec
 ![](Pic2.png)
 
 ## Color
-The color scheme of the page was always meant to have related colors to those of breast cancer, since the majority of the customers from this page would have a experience related to it. The pink tones were aimed to be smooth so the human eye would not get tired. 
+The color scheme of the page was always meant to have related colors to those of breast cancer, since the majority of the customers from this page would have a experience related to it. The pink tones were aimed to be smooth so the human eye would not get tired, while reminding the user that it is a page that specializes in clothing for women who will go through or have gone through some type of upper body surgery, which generally relate to breast cancer. 
 
 ## Evidence of Accessibility (color-contrast at least) check.
 SOS
@@ -39,6 +39,8 @@ First Impression: "Wow, it is very pink. Is there a specific theme for the page?
 "Does the products have reviews?"
 "I cannor access the wishlist."
 "The cart has an option for discounts! Nice!"
+
+You can find the screen recording here.
 
 
 ## In Class Cognitive Walkthrough
