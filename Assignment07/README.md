@@ -13,10 +13,10 @@ The previous project is a high-fidelity prototype of SULA, a clothing store spec
 - Sort items using different criterias.
 
 ## Prototype Design
-![](Rep. Screen Designs.png)
+![](Pic1.png)
 
 ## Wireflow Graphic Design
-![](Wireflow.png)
+![](Pic2.png)
 
 ## Color
 The color scheme of the page was always meant to have related colors to those of breast cancer, since the majority of the customers from this page would have a experience related to it. The pink tones were aimed to be smooth so the human eye would not get tired. 
