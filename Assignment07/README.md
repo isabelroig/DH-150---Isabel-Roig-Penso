@@ -27,7 +27,7 @@ The color scheme of the page was always meant to have related colors to those of
 
 ## Peer Review: Impression test
 
-### In Class Cognitive Walkthrough
+## In Class Cognitive Walkthrough
 Due to time change issues, I could not attend class the day of the peer-review. Because of this, I asked a friend of mine to do a Cognitive Walkthrough of my page.
 
 ## Revisions
