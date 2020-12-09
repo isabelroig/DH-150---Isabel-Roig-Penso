@@ -40,7 +40,7 @@ First Impression: "Wow, it is very pink. Is there a specific theme for the page?
 "I cannor access the wishlist."
 "The cart has an option for discounts! Nice!"
 
-You can find the screen recording here.
+You can find the screen recording ![](https://drive.google.com/file/d/1NujiMjkBhyqj6PiEAdg0MAHxZPNGhBT9/view?usp=sharing) .
 
 
 ## In Class Cognitive Walkthrough
