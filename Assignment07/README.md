@@ -82,8 +82,7 @@ During the Impression test, the participant mentioned that a review section of t
 In the impression test, the user ran into some flow errors. It turns out that the high fidelity model had multiple flow arrows missing, so I went back and made sure all the flow arros of the high fidelity chart were present.
 
 
-4. Newsletter option: In the impression test, the user noticed that there wsa no way to recieve a newsletter with the new collections and discounts. This is a good way to mantain people engaged, so I added it along the Contact Us Box.
+4. Newsletter and Facebook option: In the impression test, the user noticed that there wsa no way to recieve a newsletter with the new collections and discounts. This is a good way to mantain people engaged, so I added it along the Contact Us Box. I also realized I forgot the the Facebook option, where the online community can connect. I decided to add the Instagram option since it is another popular social platform.
 
-![](Newsletter.png)
-
+![](Newsletter2.png)
 
