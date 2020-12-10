@@ -41,21 +41,10 @@ UX story telling is the next step of this research. The idea of this process is 
 </td>
 <td> <img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%202.png?raw=true" height= "300px" >
 </td>
-<td> <img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%203.png?raw=true" height= "300px" >
-</td>
 </tr>
 </table>
 
-<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%201.png" height= "300px" > 
-
-https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%201.png
-
-![](Persona 2.png)
-
-![](Persona 3.png)
-
-You can see all the personas [here](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05).
-
+<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%203.png?raw=true" height= "300px" >
 
 ### Wireframe and graphic design element variation
 
@@ -71,7 +60,7 @@ The low-fidelity prototypes are aimed to create the initial design of the websit
 
 The low-fidelity prototype can be found [here!](https://freehand.invisionapp.com/freehand/document/N1dYUuXmA)
 
-![Here is an image of the Wireframe:](lfp1.png)
+< img scr = "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/lfp1.png?raw=true" height = "300px" >
 
 
 #### High-fidelity Prototype [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
