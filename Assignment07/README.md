@@ -58,8 +58,7 @@ The usability testings of the competition websites, the testing of the low fidel
 
 2. Include reviews and rating for products.
 During the Impression test, the participant mentioned that a review section of the product was missing. This is an impprtant part of the
-![Before](Before.png)
-![After](After.png)
+![Before](Before.png) ; ![After](After.png)
 
 3. Fixed Flow errors (missing flow arrows).
 In the Impression Test, the user ran into some flow errors. It turns out that the high fidelity model had multiple flow arrows missing, so I went back and made sure all the flow arros of the high fidelity chart were present
