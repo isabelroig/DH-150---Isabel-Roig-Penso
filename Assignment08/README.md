@@ -89,6 +89,11 @@ The evaluation of the project were done through the cognitive walkthrough; impre
 
 ### Pitch video (TBD)
 
+<figure class="video_container">
+  <iframe src="https://youtu.be/bWQNh3Pu5yc" 
+frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Conclusion
 
 There are many valuable lessons that I learned during my project development of DH150, *SULA* :
