@@ -30,19 +30,29 @@ SOS
 ## Peer Review: Impression test
 Andreina Penso, November 30th, 2020.
 
-First Impression: "Wow, it is very pink. Is there a specific theme for the page? Looks like it is breast cancer related." \n
-"Buttons are big and clear to read" \n
+First Impression: "Wow, it is very pink. Is there a specific theme for the page? Looks like it is breast cancer related."
+
+"Buttons are big and clear to read" 
+
 "Love how you can browse through different sections easily"
+
 "Ohh, for some reason I cannot access the Bikini section. What is happening? I was able to access everything else"
+
 "The about page should have more information I think!"
+
 "The top menu has a lot of categories. I like it!"
+
 "The product search tool is good"
+
 "Nice to see you can sort by different criteria"
+
 "Does the products have reviews?"
+
 "I cannor access the wishlist."
+
 "The cart has an option for discounts! Nice!"
 
-You can find the screen recording ![](https://drive.google.com/file/d/1NujiMjkBhyqj6PiEAdg0MAHxZPNGhBT9/view?usp=sharing) .
+You can find the screen recording ![here](https://drive.google.com/file/d/1NujiMjkBhyqj6PiEAdg0MAHxZPNGhBT9/view?usp=sharing) .
 
 
 ## In Class Cognitive Walkthrough
