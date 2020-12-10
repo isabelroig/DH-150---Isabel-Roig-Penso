@@ -9,15 +9,15 @@ Sula is a women's clothing store that specializes in clothing, swimsuits and lin
 It is hard for this group of women to find ideal clothes for their recoveries and future lives with their new bodies. They are entering the process with one body and exiting with a completely different one. Most of them lose the touch sense in that are and need to have specific clothes that help them stay comfortable. Most of the reason these women go through these surgeries are related to breast cancer, and a lot of information has to be learned really quickly. There are a lot of things that they need to do, so they have very little time to look for adequate clothing. There is no specialized store for this group of women, just small sections in departamental stores, so SULA will provide this group of women with this space.
 
 
-### Competitor analysis [Heuristic Evaluation](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment01)
+### Competitor Analysis: [Heuristic Evaluation](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment01)
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-### Competitor Analysis [Usability Testing](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment02)
+### Competitor Analysis: [Usability Testing](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment02)
 
-### User Research [Contextual Inquiry](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment04)
+### User Research: [Contextual Inquiry](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment04)
 Summary and link to your assignment folder
 
-### UX storytelling [Persona+Scenario](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05)
+### UX storytelling: [Persona+Scenario](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05)
 Summary and link to your assignment folder
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
@@ -25,7 +25,7 @@ Summary and link to your assignment folder
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-fidelity Prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
 ### Evaluation and revision history  
