@@ -30,7 +30,8 @@ UX story telling is the next step of this research. The idea of this process is 
 - Accesibility of specific products.
 - Providing information to the uneducated mind.
 
-![](Persona 1.png)
+<img scr = "https://isabelroig.github.io/DH-150---Isabel-Roig-Penso/Assignment08/Persona%202.png" height = "300px" >
+
 ![](Persona 2.png)
 ![](Persona 3.png)
 
