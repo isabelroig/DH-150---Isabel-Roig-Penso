@@ -26,8 +26,9 @@ After our initial findings of the heuristic evaluation, we conducted the pilot u
 
 You can find the link for the Pilot UT video [here](https://drive.google.com/drive/folders/1N5wqfa-coTNO7T3qng6g0WH60J0a8Lvp?usp=sharing) . 
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/drive/folders/1N5wqfa-coTNO7T3qng6g0WH60J0a8Lvp?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+<figure class= "video_container" >
+  <iframe src= "https://youtu.be/rcYcJJGsT4I" 
+   frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
