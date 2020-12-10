@@ -61,22 +61,28 @@ You can find the screen recording [here](https://drive.google.com/file/d/1NujiMj
 
 ## In Class Cognitive Walkthrough
 Do you think the users can understand what this screen(feedback) is about?
-"Yes, it is the main screen of a website. It looks like a women's clothing brand."
+
+- "Yes, it is the main screen of a website. It looks like a women's clothing brand."
 
 Do you think the users can recognize this (Menu bar)?
-"Yes, this is the menu bar. The main logo takes you to the main page, and these are the different clothing categories. There is a search tool and a cart. This looks like it is the place where the user can access her profile. It is pretty clear."
+
+- "Yes, this is the menu bar. The main logo takes you to the main page, and these are the different clothing categories. There is a search tool and a cart. This looks like it is the place where the user can access her profile. It is pretty clear."
 
 Do you think the users can feel that the progress is being made toward what they want to achieve, if what they want to achieve is buy a couple of items?
-Yes, I mean everything is pretty straight forward. It follows the general models of a webpage, so the steps are easy to 
+
+- "Yes, I mean everything is pretty straight forward. It follows the general models of a webpage, so the steps are easy to follow."
 
 Do you think the users would know what to do the next step?
-"Yeah, it is simple. You choose the item you like, add it to the cart and then whenever you are ready, pay."
+
+- "Yeah, it is simple. You choose the item you like, add it to the cart and then whenever you are ready, pay."
 
 Is there anything inconsistent, missing, or confusing?
-"Not to my opinion"
+
+- "Not to my opinion"
 
 Any other comments? 
-"It is awfully pink"
+
+- "It is awfully pink"
 
 ## Revisions
 If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes
