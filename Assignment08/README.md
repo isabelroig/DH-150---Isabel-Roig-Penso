@@ -13,9 +13,13 @@ It is hard for this group of women to find ideal clothes for their recoveries an
 
 When designing a clothing website, it is important to evaluate similar competitors, analyze their strengths and weaknesses so your product beats the former and improves the later. In the case of clothing store for women with upper body surgeries, there is not a specific store they can use. The best resource to find products for these women would be sections of departamental stores, such as [Nordstrom](https://www.nordstrom.com/browse/women/clothing/underwear-lingerie/breast-prosthesis-program) and [Target](https://www.target.com/c/mastectomy-swimsuits-women-s-clothing/-/N-e5wla). The heuristic evaluation was done to these webpages since these are the closest competitors to what would be a specialized post-breast surgery and recovery store.
 
+![](SS1.png)
+![](SS3.png)
 
 ### Competitor Analysis: [Usability Testing](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment02)
-After our initial findings of the heuristic evaluation, we conducted the pilot usability test and gather more information for our reserch. During the pilot usability test, the researches oberves the webpage and its accessoryhas and how easy are for the daily user to use. This is an opportunity for the researcher to analyze the page from the point of view of a non-trained individual. The usability test wa sperformed in [Nordstrom](https://www.nordstrom.com/browse/women/clothing/underwear-lingerie/breast-prosthesis-program), since there are not a lot of options when it comes to specialized post-upper body surgery stores and it was the one that performed the best in the heuristic evaluation. 
+After our initial findings of the heuristic evaluation, we conducted the pilot usability test and gather more information for our reserch. During the pilot usability test, the researches oberves the webpage and its accessoryhas and how easy are for the daily user to use. This is an opportunity for the researcher to analyze the page from the point of view of a non-trained individual. The usability test was performed in [Nordstrom](https://www.nordstrom.com/browse/women/clothing/underwear-lingerie/breast-prosthesis-program), since there are not a lot of options when it comes to specialized post-upper body surgery stores and it was the one that performed the best in the heuristic evaluation. 
+
+You can find the link for the Pilot UT video [here](https://drive.google.com/drive/folders/1N5wqfa-coTNO7T3qng6g0WH60J0a8Lvp?usp=sharing) . 
 
 
 ### User Research: [Contextual Inquiry](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment04)
@@ -26,11 +30,11 @@ UX story telling is the next step of this research. The idea of this process is 
 - Accesibility of specific products.
 - Providing information to the uneducated mind.
 
-![](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment05/Persona%201.png)
+![](Persona 1.png)
 
-![](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment05/Persona%202.png)
+![](Persona 2.png)
 
-![](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment05/Persona%203.png)
+![](Persona 3.png)
 
 You can see all the personas [here](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05).
 
@@ -49,11 +53,13 @@ The low-fidelity prototypes are aimed to create the initial design of the websit
 
 The low-fidelity prototype can be found [here!](https://freehand.invisionapp.com/freehand/document/N1dYUuXmA)
 
-![Here is an image of the Wireframe:](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment06/lfp1.png)
+![Here is an image of the Wireframe:](lfp1.png)
 
 
 #### High-fidelity Prototype [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
 The high fidelity prototype's goal is to further develop teh previous prototype by addiing complexity and more interactions. My high-fidelity prototype supports the main tasks a shopping webite has: access the main menu, use the search bar, add, access, edit and delete items from the shopping cart, order personalized items, sort items using different criterias.
+
+![](Pic1.png)
 
 The High Fidelity Prototype can be accessed [here](https://xd.adobe.com/view/ef780be9-9973-4dfa-88fd-9e470c9ff6f4-ba2b/)
 
@@ -79,7 +85,7 @@ There are many valuable lessons that I learned during my project development of 
 
 - Graphic Design: I knew from before graphic design was an important aspect of a webpage, but this experience allowed me to appreciate the effort it goes behind the thinking and choosing of aesthetics. Color schemes are an important part of designing a webpage, which can alter the experience of the user. The contrast between the background color and the text color has to be significant for the product to be smooth for the human eye (4.5:1)
 
-- Importance of multiple testing: Everytime some type of testing was done either for the research process or to my prototypes, I learned something new that helped me optimize the process,=. This is due to teh fact that all minds work differently and that these minds tend to pay more attention to different aspects. But is is also important to be concious about how to optimize the testing. FOr example, in UT, 5 participants optimizes the finding of problems, and 14-20, for large groups.
+- Importance of multiple testing: Everytime some type of testing was done either for the research process or to my prototypes, I learned something new that helped me optimize the process. This is due to teh fact that all minds work differently and that these minds tend to pay more attention to different aspects. But is is also important to be concious about how to optimize the testing. FOr example, in UT, 5 participants optimizes the finding of problems, and 14-20, for large groups.
 
 
 
