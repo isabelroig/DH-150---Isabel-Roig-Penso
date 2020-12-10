@@ -31,9 +31,7 @@ UX story telling is the next step of this research. The idea of this process is 
 - Providing information to the uneducated mind.
 
 ![](Persona 1.png)
-
 ![](Persona 2.png)
-
 ![](Persona 3.png)
 
 You can see all the personas [here](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05).
@@ -85,7 +83,7 @@ There are many valuable lessons that I learned during my project development of 
 
 - Graphic Design: I knew from before graphic design was an important aspect of a webpage, but this experience allowed me to appreciate the effort it goes behind the thinking and choosing of aesthetics. Color schemes are an important part of designing a webpage, which can alter the experience of the user. The contrast between the background color and the text color has to be significant for the product to be smooth for the human eye (4.5:1)
 
-- Importance of multiple testing: Everytime some type of testing was done either for the research process or to my prototypes, I learned something new that helped me optimize the process. This is due to teh fact that all minds work differently and that these minds tend to pay more attention to different aspects. But is is also important to be concious about how to optimize the testing. FOr example, in UT, 5 participants optimizes the finding of problems, and 14-20, for large groups.
+- Importance of multiple testing: Everytime some type of testing was done either for the research process or to my prototypes, I learned something new that helped me optimize the process. This is due to teh fact that all minds work differently and that these minds tend to pay more attention to different aspects. But is is also important to be concious about how to optimize the testing. For example, in UT, 5 participants optimizes the finding of problems, and 14-20, for large groups.
 
 
 
