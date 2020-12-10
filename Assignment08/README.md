@@ -37,7 +37,13 @@ You can see all the personas [here](https://github.com/isabelroig/DH-150---Isabe
 
 #### Low-fidelity Prototype [Wireflow](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
-The low-fidelity prototypes are aimed to create 
+The low-fidelity prototypes are aimed to create the initial design of the website and to test the flow of a website without distracting features. It can easily be altered. This prototype kept in mind a middle age women who doe snot have a lot of free time for herself, from different economic backgrounds. This made me kept in mind the technological experience and skills of these women. This prototype allows the user to: 
+
+- Use Ssearch bar 
+- Use main menu bar and submenus
+- Use select a category
+- Use add an item to a car
+- Filter using different criteria
 
 The low-fidelity prototype can be found [here!](https://freehand.invisionapp.com/freehand/document/N1dYUuXmA)
 
@@ -45,11 +51,34 @@ The low-fidelity prototype can be found [here!](https://freehand.invisionapp.com
 
 
 #### High-fidelity Prototype [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
-Summary statement and link to or an embedded prototype
+The high fidelity prototype's goal is to further develop teh previous prototype by addiing complexity and more interactions. My high-fidelity prototype supports the main tasks a shopping webite has: access the main menu, use the search bar, add, access, edit and delete items from the shopping cart, order personalized items, sort items using different criterias.
 
-### Evaluation and revision history  
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+The High Fidelity Prototype can be accessed [here](https://xd.adobe.com/view/ef780be9-9973-4dfa-88fd-9e470c9ff6f4-ba2b/)
+
+
+### Evaluation and Revision History: [(Second Part Of Assignment)](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
+
+The evaluation of the project were done through the cognitive walkthrough; impression test, accessibility audit and usability testing. These all provided different feedback about the project. Among the main findings we can find:
+
+- Some missing objects were: main menu buttin, review section for products, newsletter and social media links.
+- Missing information
+- Missing interactions
+- No wishlist access
 
 ### Pitch video (TBD)
 
-### Conclusion: what did you learn throughout the process? (TBD)
+### Conclusion
+
+There are many valuable lessons that I learned during my project development of DH150, *SULA* :
+
+- Benefits of different types of testing: The whole process included multiple research methods and testings, which all helped learn new information about the comnpetitors, the project itself and the demographic group the project was being designed for. The heuristic evaluation draw conclusions from a trained mind, while the UT allowed the user to see the page from a less trained mind, and be able to ake comparisons.
+
+- Computing Design: creating the designs digitally allowed me to make changes very easily whenever necessary. When developing the low-fidelity prototype, I started doing it on pen and paper, but I realized it was really complicated to make changes. Whenever I wanted to make a change, I had to be really careful about not altering the other functions. When I passed the process to the computer, it was much simpler to edit and delete aspects of the project without risking the wants that I wanted to keep.
+
+- Graphic Design: I knew from before graphic design was an important aspect of a webpage, but this experience allowed me to appreciate the effort it goes behind the thinking and choosing of aesthetics. Color schemes are an important part of designing a webpage, which can alter the experience of the user. The contrast between the background color and the text color has to be significant for the product to be smooth for the human eye (4.5:1)
+
+- Importance of multiple testing: Everytime some type of testing was done either for the research process or to my prototypes, I learned something new that helped me optimize the process,=. This is due to teh fact that all minds work differently and that these minds tend to pay more attention to different aspects. But is is also important to be concious about how to optimize the testing. FOr example, in UT, 5 participants optimizes the finding of problems, and 14-20, for large groups.
+
+
+
+
