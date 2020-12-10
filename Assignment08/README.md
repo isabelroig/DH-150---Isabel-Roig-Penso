@@ -20,12 +20,12 @@ Summary and link to your assignment folder
 ### UX storytelling: [Persona+Scenario](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05)
 Summary and link to your assignment folder
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### Wireframe and graphic design element variation
 
-### Low-fidelity prototype (wireflow, assignment06)
+#### Low-fidelity Prototype [Wireflow](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-### High-fidelity Prototype (functional/interactive prototype, assignment08)
+#### High-fidelity Prototype [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
 Summary statement and link to or an embedded prototype
 
 ### Evaluation and revision history  
