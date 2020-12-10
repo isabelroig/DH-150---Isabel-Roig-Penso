@@ -94,17 +94,19 @@ The evaluation of the project were done through the cognitive walkthrough; impre
 frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+
 ### Conclusion
 
 There are many valuable lessons that I learned during my project development of DH150, *SULA* :
 
 - Benefits of different types of testing: The whole process included multiple research methods and testings, which all helped learn new information about the comnpetitors, the project itself and the demographic group the project was being designed for. The heuristic evaluation draw conclusions from a trained mind, while the UT allowed the user to see the page from a less trained mind, and be able to ake comparisons.
 
+- Importance of multiple testing: Everytime some type of testing was done either for the research process or to my prototypes, I learned something new that helped me optimize the process. This is due to teh fact that all minds work differently and that these minds tend to pay more attention to different aspects. But is is also important to be concious about how to optimize the testing. For example, in UT, 5 participants optimizes the finding of problems, and 14-20, for large groups.
+
+
 - Computing Design: creating the designs digitally allowed me to make changes very easily whenever necessary. When developing the low-fidelity prototype, I started doing it on pen and paper, but I realized it was really complicated to make changes. Whenever I wanted to make a change, I had to be really careful about not altering the other functions. When I passed the process to the computer, it was much simpler to edit and delete aspects of the project without risking the wants that I wanted to keep.
 
 - Graphic Design: I knew from before graphic design was an important aspect of a webpage, but this experience allowed me to appreciate the effort it goes behind the thinking and choosing of aesthetics. Color schemes are an important part of designing a webpage, which can alter the experience of the user. The contrast between the background color and the text color has to be significant for the product to be smooth for the human eye (4.5:1)
-
-- Importance of multiple testing: Everytime some type of testing was done either for the research process or to my prototypes, I learned something new that helped me optimize the process. This is due to teh fact that all minds work differently and that these minds tend to pay more attention to different aspects. But is is also important to be concious about how to optimize the testing. For example, in UT, 5 participants optimizes the finding of problems, and 14-20, for large groups.
 
 
 
