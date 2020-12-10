@@ -15,8 +15,8 @@ When designing a clothing website, it is important to evaluate similar competito
 
 <table>
 <tr>
-<td> <img src=”https://isabelroig.github.io/DH-150---Isabel-Roig-Penso/Assignment08/SS1.png” height=”300px”> </td>
-<td> <img src=”https://isabelroig.github.io/DH-150---Isabel-Roig-Penso/Assignment08/SS3.png” height=”300px”> </td>
+<td> <img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/SS1.png?raw=true" height= "300px" > </td>
+<td> <img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/SS3.png?raw=true" height= "300px" > </td>
 </tr>
 </table>
 
@@ -35,8 +35,7 @@ UX story telling is the next step of this research. The idea of this process is 
 - Accesibility of specific products.
 - Providing information to the uneducated mind.
 
-<img src=”https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%201.png
-” height=”300px”> 
+<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%201.png" height= "300px" > 
 
 https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%201.png
 
