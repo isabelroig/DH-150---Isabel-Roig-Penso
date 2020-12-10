@@ -27,10 +27,12 @@ After our initial findings of the heuristic evaluation, we conducted the pilot u
 You can find the link for the Pilot UT video [here](https://drive.google.com/drive/folders/1N5wqfa-coTNO7T3qng6g0WH60J0a8Lvp?usp=sharing) . 
 
 <figure class= "video_container" >
-  <iframe src= "https://www.youtube.com/watch?v=rcYcJJGsT4I&feature=youtu.be" 
+  <iframe src= "https://www.youtube.com/watch?v=rcYcJJGsT4I" 
    frameborder= "0" allowfullscreen= "true"> </iframe>
 </figure>
 
+
+https://www.youtube.com/watch?v=rcYcJJGsT4I
 
 
 ### User Research: [Contextual Inquiry](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment04)
