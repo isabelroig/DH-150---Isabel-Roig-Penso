@@ -44,7 +44,7 @@ UX story telling is the next step of this research. The idea of this process is 
 </tr>
 </table>
 
-<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%203.png?raw=true" height= "700px" >
+<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%203.png?raw=true" height= "300px" >
 
 ### Wireframe and graphic design element variation
 
@@ -60,7 +60,7 @@ The low-fidelity prototypes are aimed to create the initial design of the websit
 
 The low-fidelity prototype can be found [here!](https://freehand.invisionapp.com/freehand/document/N1dYUuXmA)
 
-<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/lfp1.png?raw=true" height= "300px"> 
+<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/lfp1.png?raw=true" height= "700px"> 
 
 
 #### High-fidelity Prototype [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
