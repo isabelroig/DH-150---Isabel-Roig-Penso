@@ -60,7 +60,7 @@ The low-fidelity prototypes are aimed to create the initial design of the websit
 
 The low-fidelity prototype can be found [here!](https://freehand.invisionapp.com/freehand/document/N1dYUuXmA)
 
-<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/lfp1.png?raw=true" height=”300px”> 
+<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/lfp1.png?raw=true" height=”100px”> 
 
 
 #### High-fidelity Prototype [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
