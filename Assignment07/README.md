@@ -64,19 +64,26 @@ Due to time change issues, I could not attend class the day of the peer-review.
 If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes
 The usability testings of the competition websites, the testing of the low fidelity model and the Impression Test made me do certains changes to my high fidelity prototype. The changes I did in regards to these revisions were:
 
-1. Include Main Menu Button: During the low fidelity prototype, the user noticed that the logo of the stpre could not be seen anywhere. That made me realize that I did not only missed the logo of the brand, but I also forgot a main menu button, one that took you to the starting page
+1. Include Main Menu Button: During the low fidelity prototype, the user noticed that the logo of the stpre could not be seen anywhere. That made me realize that I did not only missed the logo of the brand, but I also forgot a main menu button, one that took you to the starting page. So I added both of these things together.
+
 
 ![Low Fidelity Prototype](lowfidelity.png)
 ![High Fidelity Prototype](highfidelity.png)
 
+
 2. Include reviews and rating for products.
 During the Impression test, the participant mentioned that a review section of the product was missing. This is an important part of the process of shopping online, because it makes up for the sensorial part. You are not able to see the physical object, just a picture of it
+
+
 ![Before](Before.png) ; ![After](After.png)
+
 
 3. Fixed Flow errors (missing flow arrows).
 In the impression test, the user ran into some flow errors. It turns out that the high fidelity model had multiple flow arrows missing, so I went back and made sure all the flow arros of the high fidelity chart were present.
 
-4. Newsletter option: In the impression test, the user noticed that there wsa no way to recieve a newsletter with the new collections and discounts. This is a good way to mantain people engaged
+
+4. Newsletter option: In the impression test, the user noticed that there wsa no way to recieve a newsletter with the new collections and discounts. This is a good way to mantain people engaged, so I added it along the Contact Us Box.
+
 ![](Newsletter.png)
 
 
