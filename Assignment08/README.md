@@ -27,7 +27,9 @@ UX story telling is the next step of this research. The idea of this process is 
 - Providing information to the uneducated mind.
 
 ![](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment05/Persona%201.png)
+
 ![](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment05/Persona%202.png)
+
 ![](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment05/Persona%203.png)
 
 You can see all the personas [here](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05).
