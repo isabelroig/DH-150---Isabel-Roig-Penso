@@ -76,7 +76,7 @@ Is there anything inconsistent, missing, or confusing?
 "Not to my opinion"
 
 Any other comments? 
-"Lots of pink"
+"It is awfully pink"
 
 ## Revisions
 If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes
