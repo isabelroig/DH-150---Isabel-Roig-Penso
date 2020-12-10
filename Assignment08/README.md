@@ -53,7 +53,7 @@ UX story telling is the next step of this research. The idea of this process is 
 
 ### Wireframe and graphic design element variation
 
-#### Low-fidelity Prototype [Wireflow](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment06)
+#### Low-fidelity Prototype: [Wireflow](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 The low-fidelity prototypes are aimed to create the initial design of the website and to test the flow of a website without distracting features. It can easily be altered. This prototype kept in mind a middle age women who doe snot have a lot of free time for herself, from different economic backgrounds. This made me kept in mind the technological experience and skills of these women. This prototype allows the user to: 
 
@@ -68,7 +68,7 @@ The low-fidelity prototype can be found [here!](https://freehand.invisionapp.com
 <img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/lfp1.png?raw=true" height= "700px"> 
 
 
-#### High-fidelity Prototype [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
+#### High-fidelity Prototype: [Functional/Interactive Prototype](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment07)
 The high fidelity prototype's goal is to further develop teh previous prototype by addiing complexity and more interactions. My high-fidelity prototype supports the main tasks a shopping webite has: access the main menu, use the search bar, add, access, edit and delete items from the shopping cart, order personalized items, sort items using different criterias.
 
 ![](Pic1.png)
