@@ -87,10 +87,10 @@ The evaluation of the project were done through the cognitive walkthrough; impre
 - Missing interactions
 - No wishlist access
 
-### Pitch video (TBD)
+### Pitch video:
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/bWQNh3Pu5yc" 
+  <iframe src="https://www.youtube.com/embed/bWQNh3Pu5yc" 
 frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
