@@ -44,7 +44,7 @@ UX story telling is the next step of this research. The idea of this process is 
 </tr>
 </table>
 
-<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%203.png?raw=true" height= "300px" >
+<img src= "https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%203.png?raw=true" height= "700px" >
 
 ### Wireframe and graphic design element variation
 
