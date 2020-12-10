@@ -28,7 +28,7 @@ You can find the link for the Pilot UT video [here](https://drive.google.com/dri
 
 <figure class= "video_container" >
   <iframe src= "https://youtu.be/rcYcJJGsT4I" 
-   frameborder="0" allowfullscreen="true"> </iframe>
+   frameborder= "0" allowfullscreen= "true"> </iframe>
 </figure>
 
 
