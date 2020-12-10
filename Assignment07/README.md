@@ -30,8 +30,8 @@ SOS
 ## Peer Review: Impression test
 Andreina Penso, November 30th, 2020.
 
-First Impression: "Wow, it is very pink. Is there a specific theme for the page? Looks like it is breast cancer related."
-"Buttons are big and clear to read"
+First Impression: "Wow, it is very pink. Is there a specific theme for the page? Looks like it is breast cancer related." \n
+"Buttons are big and clear to read" \n
 "Love how you can browse through different sections easily"
 "Ohh, for some reason I cannot access the Bikini section. What is happening? I was able to access everything else"
 "The about page should have more information I think!"
