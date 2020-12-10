@@ -53,9 +53,15 @@ If you have multiple versions of prototypes by reflecting the evaluation with ot
 The usability testings of the competition websites, the testing of the low fidelity model and the Impression Test made me do certains changes to my high fidelity prototype. The changes I did in regards to these revisions were:
 
 1. Include Main Menu Button (change done from low fidelity prototype)
+![Low Fidelity Prototype](lowfidelity)
+![High Fidelity Prototype](highfidelity)
 
 2. Include reviews and rating for products.
+During the Impression test, the participant mentioned that a review section of the product was missing. This is an impprtant part of the
+![Before](Before.png)
+![After](After.png)
 
 3. Fixed Flow errors (missing flow arrows).
+In the Impression Test, the user ran into some flow errors. It turns out that the high fidelity model had multiple flow arrows missing, so I went back and made sure all the flow arros of the high fidelity chart were present
 
 
