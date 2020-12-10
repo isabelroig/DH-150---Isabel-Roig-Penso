@@ -26,14 +26,16 @@ After our initial findings of the heuristic evaluation, we conducted the pilot u
 
 You can find the link for the Pilot UT video [here](https://drive.google.com/drive/folders/1N5wqfa-coTNO7T3qng6g0WH60J0a8Lvp?usp=sharing) . 
 
+### User Research: [Contextual Inquiry](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment04)
+The *user research* is a way to recieve and understand the point of view of a person that is part of the desired dedmographic of customers. It is based on the results of the *heuristic evaluation* and the *usability testing*. The user research section of the project allows a lot of flexibility when it comes to the method selected. The chosen method for this study was interview. The interview consisted of a series of contextual inquiry questions and hardships with her experience and how it can be improved. It also included a small UT section, with teh goal of understanding the familiarity of the demographic group with the competitor. Due to the COVID-19 pandemic, the interview took place through Zoom.
+
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/rcYcJJGsT4I" 
 frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
-### User Research: [Contextual Inquiry](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment04)
-The *user research* is a way to recieve and understand the point of view of a person that is part of the desired dedmographic of customers. It is based on the results of the *heuristic evaluation* and the *usability testing*. The user research section of the project allows a lot of flexibility when it comes to the method selected. The chosen method for this study was interview. The interview consisted of a series of contextual inquiry questions and hardships with her experience and how it can be improved. It also included a small UT section, with teh goal of understanding the familiarity of the demographic group with the competitor. Due to the COVID-19 pandemic, the interview took place through Zoom.
 
 ### UX storytelling: [Persona+Scenario](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05)
 UX story telling is the next step of this research. The idea of this process is for the researcher to understand better the point of view of the desired demographic population or a target group for the product. The main features used for the UX Design are:
