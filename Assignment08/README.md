@@ -35,10 +35,13 @@ UX story telling is the next step of this research. The idea of this process is 
 - Accesibility of specific products.
 - Providing information to the uneducated mind.
 
-<img src=”https://isabelroig.github.io/DH-150---Isabel-Roig-Penso/Assignment08/Persona%202.png” height=”30px”> 
+<img src=”https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%201.png
+” height=”300px”> 
 
+https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/blob/main/Assignment08/Persona%201.png
 
 ![](Persona 2.png)
+
 ![](Persona 3.png)
 
 You can see all the personas [here](https://github.com/isabelroig/DH-150---Isabel-Roig-Penso/tree/main/Assignment05).
