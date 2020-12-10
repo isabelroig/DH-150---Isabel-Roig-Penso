@@ -1,4 +1,4 @@
-# Assignment 7: Interactive Prototype
+# Assignment 07: Interactive Prototype
 
 The High Fidelity Prototype can be accessed [here](https://xd.adobe.com/view/ef780be9-9973-4dfa-88fd-9e470c9ff6f4-ba2b/).
 
@@ -24,7 +24,9 @@ Since the project is much more complex when design
 The color scheme of the page was always meant to have related colors to those of breast cancer, since the majority of the customers from this page would have a experience related to it. The pink tones were aimed to be smooth so the human eye would not get tired, while reminding the user that it is a page that specializes in clothing for women who will go through or have gone through some type of upper body surgery, which generally relate to breast cancer. 
 
 ## Evidence of Accessibility (color-contrast at least) check.
-SOS
+The graphic Interface design process was very easy going due to the fact that the color palette consisted in different tones of pink, to represent breast cancer support. I selected a color palette and design the webpage using thise colors. To portray the flexibility of the page, I chose not to include pictures of the products. I included pictures in some of them to represent to get the idea of how it would look.
+![Color Contrast 1](color1.png)
+![Color Contrast 2](color2.png)
 
 
 ## Peer Review: Impression test
